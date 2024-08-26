@@ -20,7 +20,7 @@ My dream is to be a digital craftsman, creating value and providing solutions di
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<br />  <br>
 
 ##
 
@@ -37,6 +37,8 @@ My dream is to be a digital craftsman, creating value and providing solutions di
   </ul>
 </div>
 
+##
+
   <h1>Contact Me</h1>
   <p>Feel free to reach out if you have any questions or would like to collaborate.</p>
 
@@ -44,7 +46,8 @@ My dream is to be a digital craftsman, creating value and providing solutions di
     <li><strong>Email:</strong> johndarwinnifras@gmail.com</li>
     <li><strong>Facebook:</strong>https://www.facebook.com/profile.php?id=100066357935539)</li>
     <li><strong>Instagram:</strong>https://www.instagram.com/durrdurr_23/</li>
-  </ul>
+  </ul>  <br> <br>
+  
 
 ### 📊 Stats
 
@@ -52,8 +55,9 @@ My dream is to be a digital craftsman, creating value and providing solutions di
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
 
 
--- 
 
+
+ <br> <br>
 ## 📋Latest Project/s
 ![Screenshot 2024-08-27 005306](https://github.com/user-attachments/assets/18cb5fb4-fce8-4dcb-89b8-92b4ccb084d1)
 <ul>  
