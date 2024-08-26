@@ -25,24 +25,34 @@ My dream is to be a digital craftsman, creating value and providing solutions di
 ##
 
 
-<body>
-  <div class="profile-container">
-    <h1>My Profile</h1>
-    <ul>
-      <li><strong>Name:</strong> <span>Darwin Nifras</span></li>
-      <li><strong>Age:</strong> <span>20</span></li>
-      <li><strong>Educational Background:</strong> <span>Currently Taking on Bachelors of Science in Information Sytems</span></li>
-      <li><strong>Ethnicity:</strong> <span>Filipino</span></li>
-      <li><strong>Goal:</strong> <span>To bring value to people</span></li>
-    </ul>
-  </div>
-</body>
+
+<div class="profile-container">
+  <h1>My Profile</h1>
+  <ul>
+    <li><strong>Name:</strong> <span>Darwin Nifras</span></li>
+    <li><strong>Age:</strong> <span>20</span></li>
+    <li><strong>Educational Background:</strong> <span>Currently Taking on Bachelors of Science in Information Sytems</span></li>
+    <li><strong>Ethnicity:</strong> <span>Filipino</span></li>
+    <li><strong>Goal:</strong> <span>To bring value to people</span></li>
+  </ul>
+</div>
 
 
+### 📊 Stats
+
+![Darwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durwen21&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
 
 
+-- 
 
-
+## 📋Latest Project/s
+<ul>
+  <li><a href="https://github.com/Durwen21/HappinessInATray" target="_blank"><strong> Happines in a TRay Website</strong></a>: We created a project built built usingn HTML, CSS, and JQuery. 
+    <br>
+    <a href="https://github.com/Durwen21/HappinessInATray/" target="_blank">Link to the project</a>
+  </li>
+</ul>
 
 
 
