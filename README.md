@@ -50,7 +50,6 @@ My dream is to be a digital craftsman, creating value and providing solutions di
 <ul>
   <li><a href="https://github.com/Durwen21/HappinessInATray" target="_blank"><strong> Happines in a TRay Website</strong></a>: We created a project built built usingn HTML, CSS, and JQuery. 
     <br>
-    <a href="https://github.com/Durwen21/HappinessInATray/" target="_blank">Link to the project</a>
   </li>
 </ul>
 
