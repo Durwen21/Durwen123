@@ -37,6 +37,14 @@ My dream is to be a digital craftsman, creating value and providing solutions di
   </ul>
 </div>
 
+  <h1>Contact Me</h1>
+  <p>Feel free to reach out if you have any questions or would like to collaborate.</p>
+
+  <ul>
+    <li><strong>Email:</strong> johndarwinnifras@gmail.com</li>
+    <li><strong>Facebook:</strong>https://www.facebook.com/profile.php?id=100066357935539)</li>
+    <li><strong>Instagram:</strong>https://www.instagram.com/durrdurr_23/</li>
+  </ul>
 
 ### 📊 Stats
 
