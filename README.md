@@ -55,8 +55,9 @@ My dream is to be a digital craftsman, creating value and providing solutions di
 -- 
 
 ## 📋Latest Project/s
-<ul>
-  <li><a href="https://github.com/Durwen21/HappinessInATray" target="_blank"><strong> Happines in a Tray Website</strong></a>: We created a project built built usingn HTML, CSS, and JQuery. 
+![Screenshot 2024-08-27 005306](https://github.com/user-attachments/assets/18cb5fb4-fce8-4dcb-89b8-92b4ccb084d1)
+<ul>  
+  <li><a href="https://github.com/Durwen21/HappinessInATray" target="_blank"><strong> Happines in a Tray Website</strong></a>: We created a project built using HTML, CSS, and JQuery for our Web Development Course. 
     <br>
   </li>
 </ul>
