@@ -31,7 +31,7 @@ My dream is to be a digital craftsman, creating value and providing solutions di
   <ul>
     <li><strong>Name:</strong> <span>Darwin Nifras</span></li>
     <li><strong>Age:</strong> <span>20</span></li>
-    <li><strong>Educational Background:</strong> <span>Currently Taking on Bachelors of Science in Information Sytems</span></li>
+    <li><strong>Educational Background:</strong> <span>Currently Taking on Bachelors of Science in Information Systems</span></li>
     <li><strong>Ethnicity:</strong> <span>Filipino</span></li>
     <li><strong>Goal:</strong> <span>To bring value to people</span></li>
   </ul>
